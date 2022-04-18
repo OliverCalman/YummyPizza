@@ -1,5 +1,5 @@
 32555 FSD
-Oliver Calman 14155966
+Oliver Calman
 Parts IV, V, VI, VII, VIII
 
 Yummy Pizzas System - membership classes
@@ -7,12 +7,9 @@ Yummy Pizzas System - membership classes
 The goal of this system is to create a user membership. The membership, customer, and address classes are instantiated as part of 
 this process.
 
-This folder contains the following:
+This repo contains the following:
 - Java source code for the project
-- Windows executable (.EXE) file that can be used to run the program
-- Runnable .JAR that can also be used to run this program
 - SQL script to initialise the database
-- .XML file used in packaging as an executable
 
 
 INSTRUCTIONS:
